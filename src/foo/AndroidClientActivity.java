@@ -1,6 +1,6 @@
 package foo;
 
-import android.R;
+import maa.de.code.R;
 import android.app.Activity;
 import android.os.Bundle;
 
